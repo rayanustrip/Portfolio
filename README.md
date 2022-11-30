@@ -1,4 +1,4 @@
-# The Minimal theme
+# Shameer Shaik
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
@@ -6,7 +6,7 @@
 
 ![Thumbnail of Minimal](thumbnail.png)
 
-## Usage
+## This is my first Page - Shameer
 
 To use the Minimal theme:
 

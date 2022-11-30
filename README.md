@@ -6,7 +6,7 @@
 
 ![Thumbnail of Minimal](thumbnail.png)
 
-## This is my first Page - Shameer
+## This is my first Page - Shameer Shaik
 
 To use the Minimal theme:
 
